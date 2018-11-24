@@ -7,7 +7,7 @@ With that library you will be send e-mails easy through php scripts. You can par
 For use this library you're need to install composer before, with command:
 
 ```sh
-composer require luisgustavo015/mailsenderphp
+composer require luisg/notification
 ```
 
 After install the library with composer, do you need to invoque the 'autoload' script provided by composer.
